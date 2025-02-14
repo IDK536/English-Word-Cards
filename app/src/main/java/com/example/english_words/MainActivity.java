@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//ениска
     private Map<String, String> loadPhrases(String fileName) {
         Map<String, String> phraseMap = new HashMap<>();
         AssetManager assetManager = getAssets();
